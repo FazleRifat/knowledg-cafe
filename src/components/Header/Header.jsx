@@ -2,7 +2,7 @@ import profile from '../../assets/images/profile.png'
 const Header = () => {
   return (
     <div>
-      <div className="navbar bg-base-100 max-w-4xl mx-auto">
+      <div className="navbar bg-base-100 max-w-6xl mx-auto">
         <div className="flex-1">
           <a className="normal-case text-xl md:text-4xl font-bold">Knowledge Cafe</a>
         </div>

@@ -7,7 +7,7 @@
       "author_img": "https://i.ibb.co/FzGFb67/profile.png",
       "posted_date": "2023-09-11",
       "reading_time": 10,
-      "hashtag": ["Tech", "Science"]
+      "hashtag": ["#Tech", "#Science"]
     },
     {
       "id": 2,
@@ -17,7 +17,7 @@
       "author_img": "https://i.ibb.co/0V5gbG1/girl1.jpg",
       "posted_date": "2023-09-10",
       "reading_time": 8,
-      "hashtag": ["Health", "Wellness"]
+      "hashtag": ["#Health", "#Wellness"]
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
       "author_img": "https://i.ibb.co/S5BjxrB/girl2.jpg",
       "posted_date": "2023-09-09",
       "reading_time": 12,
-      "hashtag": ["Travel", "Adventure"]
+      "hashtag": ["#Travel", "#Adventure"]
     },
     {
       "id": 4,
@@ -37,7 +37,7 @@
       "author_img": "https://i.ibb.co/5KSK42J/boy1.png",
       "posted_date": "2023-09-08",
       "reading_time":6,
-      "hashtag": ["Food", "Cuisine"]
+      "hashtag": ["#Food", "#Cuisine"]
     }
   ]
   
